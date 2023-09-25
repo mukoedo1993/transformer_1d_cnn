@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/buchan/transformer-network-with-1d-cnn-feature-extraction
